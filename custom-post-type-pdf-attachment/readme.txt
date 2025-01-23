@@ -1,9 +1,9 @@
 === Custom Post Type Attachment ===
 Contributors: avimegladon
 Donate link: https://www.aviplugins.com/donate/
-Tags: file upload, upload, custom attachment, attachment, post attachment, file attachment, upload file, pdf in post, pdf in custom post type, filepost pdf, file attachment, file, pdf, images, docs, document attachment 
+Tags: file,upload,attachment,file attachment,download
 Requires at least: 2.0.2
-Tested up to: 6.5.3
+Tested up to: 6.7.1
 Stable tag: 3.4.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
